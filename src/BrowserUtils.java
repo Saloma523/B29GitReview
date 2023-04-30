@@ -5,4 +5,6 @@ public class BrowserUtils {
     // ...
 
     // dropdown util
+
+    // adding more to this class
 }
